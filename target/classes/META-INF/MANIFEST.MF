@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: dependencyInjectionDemo
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: ds77
+Implementation-Vendor-Id: com.spring.dependency.demo
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/dependencyIn
+ jectionDemo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
